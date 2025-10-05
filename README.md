@@ -212,6 +212,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo</td>
       <td> Done </td>
      </tr>
+      <tr>
+        <td>US051</td>
+       <td>Creación de tareas	</td>
+       <td>WII-012</td>
+       <td>Implementar vista y flujo de creación de tareas</td>
+       <td>Desarrollar la interfaz de gestión de tareas dentro de los proyectos, que incluya una tabla con columnas de colaborador, tarea, vencimiento y estado. Implementar el flujo “Crear nueva tarea”, permitiendo asignar colaboradores, definir fecha límite, descripción, checklist, herramientas, adjuntos y comentarios. Asegurar la validación de campos y la actualización visual de la lista tras crear una tarea.</td>
+       <td>8</td>
+       <td>Huarcaya Matías, Gilbert Alonso</td>
+      <td>Done</td>
+     </tr>
    </tbody> 
   </table>
 
