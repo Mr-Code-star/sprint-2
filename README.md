@@ -81,6 +81,26 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
 | Ramirez Carrasco, Ariana Lizeth      | ariana9513      | C            |
 
 #### 5.2.2.3. Sprint Backlog 2.
+<table>
+  <thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+   <tbody>
+      <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estim<br>ation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+   </tbody>
+  </table>
+  
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
