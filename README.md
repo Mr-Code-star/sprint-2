@@ -222,6 +222,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Huarcaya Matías, Gilbert Alonso</td>
       <td>Done</td>
      </tr>
+      <tr>
+        <td>US060</td>
+       <td>API RESTful – Crear tarea	</td>
+       <td>WII-013</td>
+       <td>Implementar endpoint para creación de tareas</td>
+       <td>Desarrollar el endpoint POST /api/tasks que permita registrar nuevas tareas asociadas a un proyecto. El endpoint debe recibir los datos: título, descripción, fecha de entrega, colaborador asignado, checklist, herramientas y adjuntos. Validar los campos requeridos y retornar código HTTP 201 con la tarea creada. Conectar este endpoint con el módulo del frontend de creación de tareas.</td>
+       <td>8</td>
+       <td>Huarcaya Matías, Gilbert Alonso</td>
+      <td>Done</td>
+     </tr>
    </tbody> 
   </table>
 
