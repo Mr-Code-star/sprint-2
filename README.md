@@ -192,6 +192,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Ramirez Carrasco, Ariana Lizeth y Huapaya Galindo, Dyron</td>
       <td> Done </td>
      </tr>
+      <tr>
+        <td>US023</td>
+       <td>Buscar proyectos		</td>
+       <td>WII-010</td>
+       <td>Implementar buscador y filtrado de proyectos</td>
+       <td>Desarrollar la funcionalidad de búsqueda de proyectos por nombre, tipo de puesto o área, permitiendo al usuario encontrar oportunidades relevantes. Implementar una interfaz con campos de entrada y botones de búsqueda, conectada al listado de proyectos disponibles. La lista debe actualizarse dinámicamente según los filtros aplicados y mostrar tarjetas con la información resumida del proyecto (nombre, área, duración, etiquetas, botones “Ver más” y “Postular”).</td>
+       <td> 7 </td>
+       <td>Baca Camargo, Vitaly Arturo</td>
+      <td> Done </td>
+     </tr>
    </tbody> 
   </table>
 
