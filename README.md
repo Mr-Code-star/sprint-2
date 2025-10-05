@@ -98,6 +98,28 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
     <td>Assigned to</td>
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
+     <tr>
+    <td>US001</td>
+    <td>Registro y autenticación de usuarios</td>
+    <td>WII-01</td>
+    <td>Implementar vista de registro y inicio de seccion</td>
+    <td>Crear las vistas de registro y inicio de seccion para la autenticación de los usuarios a las pagina inicial</td>
+    <td>2</td>
+    <td>Pariachi Limahuaya, Sebastian Ubaldo</td>
+    <td>Done</td>
+     </tr>
+     <tr>
+       <td>US028</td>
+       <td>Selección de plan de suscripción	</td>
+       <td>WII-02</td>
+       <td>Implementar vista de selecionar un plan e bloquear todas la funciones de la pagina</td>
+       <td>Implementar solo la vista de selecionar plan con los planes gratuito de $0 y premium de $5. Si el usuario no tiene un plan
+          de los dos presentes se bloque todas las funciones de la aplicativo debe comprar un plan para que recien haga las actividades dentro de la pagina.             
+       </td>
+       <td> 5 </td>
+       <td> Baca Camargo, Vitaly Arturo</td>
+       <td> Done </td>
+     </tr>
    </tbody>
   </table>
   
