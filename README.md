@@ -105,7 +105,7 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
     <td>Implementar vista de registro y inicio de seccion</td>
     <td>Crear las vistas de registro y inicio de seccion para la autenticación de los usuarios a las pagina inicial</td>
     <td>2</td>
-    <td>Pariachi Limahuaya, Sebastian Ubaldo</td>
+    <td>Baca Camargo, Vitaly Arturo</td>
     <td>Done</td>
      </tr>
      <tr>
@@ -117,8 +117,18 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
           de los dos presentes se bloque todas las funciones de la aplicativo debe comprar un plan para que recien haga las actividades dentro de la pagina.             
        </td>
        <td> 5 </td>
-       <td> Baca Camargo, Vitaly Arturo</td>
+       <td> Pariachi Limahuaya, Sebastian Ubaldo</td>
        <td> Done </td>
+     </tr>
+     <tr>
+       <td>US029</td>
+       <td>Perfil de usuario registrado	</td>
+       <td>WII-03</td>
+       <td>Implementar vista del perfil del usuario</td>
+       <td>Crear la vista del perfil del usuario registrado que muestre su foto, nombre, rol, descripción personal, habilidades, proyectos, puntos y botones de “Ver CV”, “Portafolio” y “Experiencias”. Asegurar que los datos se carguen correctamente desde el backend y que la interfaz sea responsiva.</td>
+       <td>6</td>
+       <td>Huarcaya Matias, Gilbert Alonso</td>
+        <td> Done </td>
      </tr>
    </tbody>
   </table>
