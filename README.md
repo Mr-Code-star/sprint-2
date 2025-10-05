@@ -162,7 +162,17 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td> Huapaya Galindo, Dyron </td>
       <td> Done </td>
      </tr>
-   </tbody>
+     <tr>
+        <td>US025</td>
+       <td>Ranking de colaboradores			</td>
+       <td>WII-07</td>
+       <td> Implementar ranking de los 10 mejores colaboradores de acuerdo a la cantidad de puntos</td>
+       <td>Desarrollar un sistema en el cual se presente a los 10 mejores colaboradores detacados en la pagina de CollabUs de acuerdo a la cantidada de puntos que fueron dejando otros usuarios al perfil de dicho perfil del colaborador. </td>
+       <td> 8 </td>
+       <td> Baca Camargo, Vitaly Arturo</td>
+      <td> Done </td>
+     </tr>
+   </tbody> 
   </table>
 
   
