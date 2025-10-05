@@ -302,6 +302,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo y Huapaya Galindo, Dyron </td>
       <td>Done</td>
      </tr>
+        <tr>
+        <td>US024</td>
+       <td> Notificaciones		</td>
+       <td>WII-021</td>
+       <td>Implementar vista de notificaciones</td>
+       <td>Desarrollar la vista de notificaciones donde el usuario puede visualizar los cambios relacionados con sus proyectos, tareas, hitos y postulaciones. Incluir diseño con categorías y filtros laterales, estados (no leído / leído), íconos distintivos por tipo de notificación, y botones de acción (Ver Proyecto, Ver Hito, Ver Tarea, etc.). Integrar la vista con la API RESTful de notificaciones para mostrar la información en tiempo real y permitir marcar como leídas.</td>
+       <td>8</td>
+       <td>Baca Camargo, Vitaly Arturo y Huapaya Galindo, Dyron </td>
+      <td>Done</td>
+     </tr>
    </tbody>
   </table>
 
