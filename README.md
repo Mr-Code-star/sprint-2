@@ -182,6 +182,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td> Baca Camargo, Vitaly Arturo</td>
       <td> Done </td>
      </tr>
+      <tr>
+        <td>US027</td>
+       <td>Ver proyecto		</td>
+       <td>WII-09</td>
+       <td>Implementar vista de detalle de proyecto </td>
+       <td> Desarrollar la vista detallada del proyecto accesible desde el botón “Ver más”, mostrando información completa del mismo: resumen, beneficios, nivel académico, habilidades técnicas, roles disponibles, creador y fecha de publicación. Incluir las opciones de interacción “Postular”, “Contribuir” y “Guardar en favoritos”, asegurando que la interfaz sea dinámica y responsive. </td>
+       <td> 7 </td>
+       <td>Ramirez Carrasco, Ariana Lizeth y Huapaya Galindo, Dyron</td>
+      <td> Done </td>
+     </tr>
    </tbody> 
   </table>
 
