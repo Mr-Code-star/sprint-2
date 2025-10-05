@@ -202,6 +202,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo</td>
       <td> Done </td>
      </tr>
+      <tr>
+        <td>US058</td>
+       <td>API RESTful – Buscar proyectos</td>
+       <td>WII-011</td>
+       <td>Implementar endpoint y consumo de búsqueda de proyectos</td>
+       <td> Desarrollar y conectar el endpoint GET /api/projects para permitir la búsqueda y filtrado de proyectos según nombre, área o tipo de puesto. Implementar la integración desde el frontend para que el buscador muestre los resultados dinámicamente al recibir la respuesta del servidor o fake API. Incluir manejo de estados de carga y errores (sin resultados, fallo de conexión, etc.).</td>
+       <td> 5 </td>
+       <td>Baca Camargo, Vitaly Arturo</td>
+      <td> Done </td>
+     </tr>
    </tbody> 
   </table>
 
