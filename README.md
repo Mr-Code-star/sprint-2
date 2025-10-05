@@ -282,6 +282,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo y Huarcaya Matías, Gilbert Alonso</td>
       <td>Done</td>
      </tr>
+      <tr>
+        <td>US009</td>
+       <td>Realizar aporte	</td>
+       <td>WII-019</td>
+       <td>Implementar flujo de contribución (Donación rápida y RewardTier)</td>
+       <td>Desarrollar el flujo completo de contribución al proyecto, permitiendo al usuario elegir entre dos modalidades: RewardTier, donde selecciona un plan de recompensa (básico, intermedio o premium), y Donación rápida, donde ingresa un monto libre, nombre y correo electrónico. Implementar la pantalla de confirmación con mensaje de agradecimiento tras completar el aporte. Integrar con los endpoints del módulo de financiamiento y actualizar el progreso financiero en tiempo real.</td>
+       <td>6</td>
+       <td>Baca Camargo, Vitaly Arturo y Pariachi Limahuaya, Sebastian Ubaldo</td>
+      <td>Done</td>
+     </tr>
    </tbody>
   </table>
 
