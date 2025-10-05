@@ -143,7 +143,7 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
         <td> Done </td>
      </tr>
       <tr>
-       <td>US029</td>
+       <td>US004</td>
        <td>Creación de proyectos	</td>
        <td>WII-05</td>
        <td>Implementar módulo de creación de proyectos</td>
