@@ -232,7 +232,17 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Huarcaya Matías, Gilbert Alonso</td>
       <td>Done</td>
      </tr>
-   </tbody> 
+     <tr>
+        <td>US060</td>
+       <td>Definir Hito	</td>
+       <td>WII-014</td>
+       <td>Implementar vista y flujo de creación de hitos</td>
+       <td>Desarrollar la interfaz de gestión y creación de hitos dentro de los proyectos. Incluir tabla de hitos con filtros por estado y colaborador, y formulario para registrar un nuevo hito con campos de nombre, descripción, fecha de vencimiento, herramientas, comentarios y asignación de tareas relacionadas. Asegurar la validación de datos, la actualización del listado tras crear un nuevo hito y la correcta visualización de estados: Pendiente, Completado y Retrasado.</td>
+       <td>10</td>
+       <td>Baca Camargo, Vitaly Arturo</td>
+      <td>Done</td>
+     </tr>
+   </tbody>
   </table>
 
   
