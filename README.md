@@ -152,6 +152,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Ramirez Carrasco, Ariana Lizeth</td>
         <td> Done </td>
      </tr>
+     <tr>
+       <td>US017</td>
+       <td>API RESTful - Crear proyecto		</td>
+       <td>WII-06</td>
+       <td> Implementar endpoint para registro de proyectos </td>
+       <td> Desarrollar la conexión entre el formulario de creación de proyectos del frontend y la API RESTful para registrar los proyectos. Configurar el método POST /api/projects que reciba los datos del formulario (nombre, área, etiquetas, resumen y roles) y los almacene en la base de datos o mock API. Implementar validaciones y retornar código HTTP 201 en caso de registro exitoso. </td>
+       <td>6</td>
+       <td> Huapaya Galindo, Dyron </td>
+      <td> Done </td>
+     </tr>
    </tbody>
   </table>
 
