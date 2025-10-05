@@ -242,6 +242,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo</td>
       <td>Done</td>
      </tr>
+        <tr>
+        <td>US061</td>
+       <td>API RESTful – Crear Hito</td>
+       <td>WII-015</td>
+       <td>Implementar endpoint para registro de hitos</td>
+       <td>Desarrollar el endpoint POST /api/milestones que permita registrar nuevos hitos dentro de un proyecto. El endpoint debe recibir los datos del hito (nombre, descripción, fecha de vencimiento, herramientas, tareas asignadas y comentarios), validarlos y almacenarlos en la base de datos o fake API. Devolver código HTTP 201 con el hito creado y conectar la respuesta al módulo del frontend para actualizar la lista de hitos.</td>
+       <td>6</td>
+       <td>Baca Camargo, Vitaly Arturo</td>
+      <td>Done</td>
+     </tr>
    </tbody>
   </table>
 
