@@ -142,6 +142,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Huarcaya Matias, Gilbert Alonso</td>
         <td> Done </td>
      </tr>
+      <tr>
+       <td>US029</td>
+       <td>Creación de proyectos	</td>
+       <td>WII-05</td>
+       <td>Implementar módulo de creación de proyectos</td>
+       <td> Desarrollar la vista “Crear Proyecto” que permita al usuario registrar el nombre del proyecto, su área, etiquetas y un resumen descriptivo. Incluir la segunda etapa del flujo para definir roles, donde el usuario puede agregar tarjetas con títulos, ítems y responsabilidades personalizadas. El flujo finaliza con la opción de publicar el proyecto, asegurando validaciones en todos los campos y una navegación clara entre pasos (Siguiente, Volver, Cancelar). </td>
+       <td>8</td>
+       <td>Ramirez Carrasco, Ariana Lizeth</td>
+        <td> Done </td>
+     </tr>
    </tbody>
   </table>
 
