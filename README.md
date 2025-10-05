@@ -292,11 +292,19 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo y Pariachi Limahuaya, Sebastian Ubaldo</td>
       <td>Done</td>
      </tr>
+      <tr>
+        <td>US063</td>
+       <td>API RESTful – Notificaciones		</td>
+       <td>WII-020</td>
+       <td>Implementar endpoints de notificaciones</td>
+       <td>Construir GET /api/notifications con filtros (status, type, range, page, limit), PATCH /api/notifications/{id}/read, y POST /api/notifications/mark-all-read. Devolver items, total, unreadCount. Integrar con seguridad (scoped por userId).</td>
+       <td>6</td>
+       <td>Baca Camargo, Vitaly Arturo y Huapaya Galindo, Dyron </td>
+      <td>Done</td>
+     </tr>
    </tbody>
   </table>
 
-  
-  
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
