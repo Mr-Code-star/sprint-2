@@ -252,6 +252,36 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td>Baca Camargo, Vitaly Arturo</td>
       <td>Done</td>
      </tr>
+       <tr>
+        <td>US030</td>
+       <td>Asignar meta financiera y rewards</td>
+       <td>WII-016</td>
+       <td>Implementar vista y flujo de contribuciones</td>
+       <td>Desarrollar la interfaz del módulo de Contribuciones, donde el emprendedor puede establecer una meta financiera y añadir rewards asociados al proyecto. Incluir formularios de creación y edición con validaciones, y mostrar el progreso financiero, lista de contribuyentes, total recaudado y opción de exportar PDF.</td>
+       <td>10</td>
+       <td>Baca Camargo, Vitaly Arturo y Huarcaya Matías, Gilbert Alonso</td>
+      <td>Done</td>
+     </tr>
+       <tr>
+        <td>US061</td>
+       <td>API RESTful – Definir meta financiera</td>
+       <td>WII-017</td>
+       <td>Implementar endpoint para registrar/actualizar meta financiera</td>
+       <td>Desarrollar el endpoint PUT /api/projects/{projectId}/funding-goal que permita definir o actualizar la meta financiera del proyecto, recibiendo monto objetivo, fecha límite y descripción. Validar la información y devolver código HTTP 200 con la meta actualizada. Conectar el endpoint con el módulo frontend de contribuciones.</td>
+       <td>6</td>
+       <td>Baca Camargo, Vitaly Arturo y Huarcaya Matías, Gilbert Alonso</td>
+      <td>Done</td>
+     </tr>
+      <tr>
+        <td>US062</td>
+       <td>API RESTful – Crear reward</td>
+       <td>WII-018</td>
+       <td>Implementar endpoint para creación y gestión de rewards</td>
+       <td>Desarrollar el endpoint POST /api/projects/{projectId}/rewards para registrar recompensas asociadas a un proyecto. Permitir ingresar nombre, monto mínimo, beneficios y cupos. Retornar HTTP 201 con los datos del reward creado. Conectar el endpoint con la interfaz de “Añadir Reward” y “Editar Reward”.</td>
+       <td>6</td>
+       <td>Baca Camargo, Vitaly Arturo y Huarcaya Matías, Gilbert Alonso</td>
+      <td>Done</td>
+     </tr>
    </tbody>
   </table>
 
