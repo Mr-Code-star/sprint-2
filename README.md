@@ -69,6 +69,17 @@ Métrica de Cumplimiento: Para evaluar el cumplimiento del presente sprint, vamo
 </table><br><br>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En esta sección se incluye la elaboración de el artefacto Leadership-andCollaboration Matrix (LACX), el cual elegirenos quién es el líder y quiénes son los colaboradores para este Sprint 2.
+
+| Team Member (Last Name, First Name)  | GitHub Username | Landing page |
+| ------------------------------------ | --------------- | ------------ |
+| Huarcaya Matias, Gilbert Alonso      | GilbertHuarcaya | C            |
+| Huapaya Galindo, Dyaron              | Mainema         | C            |
+| Pariachi Limahuaya, Sebastian Ubaldo | S-06X           | C            |
+| Baca Camargo, Vitaly Arturo          | Mr-Code-star    | L            |
+| Ramirez Carrasco, Ariana Lizeth      | ariana9513      | C            |
+
 #### 5.2.2.3. Sprint Backlog 2.
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
