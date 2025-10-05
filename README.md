@@ -172,6 +172,16 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td> Baca Camargo, Vitaly Arturo</td>
       <td> Done </td>
      </tr>
+      <tr>
+        <td>US007</td>
+       <td>Postulación a proyectos		</td>
+       <td>WII-08</td>
+       <td> Implementar módulo de postulación a proyectos </td>
+       <td> Desarrollar la funcionalidad que permita a los colaboradores postularse a proyectos disponibles. Incluir formulario con campos de mensaje de motivación y habilidades relevantes. Conectar con el endpoint correspondiente para registrar la postulación y notificar al creador del proyecto. Mostrar confirmación visual del envío y gestionar los estados de solicitud (pendiente, aceptada o rechazada). </td>
+       <td> 6 </td>
+       <td> Baca Camargo, Vitaly Arturo</td>
+      <td> Done </td>
+     </tr>
    </tbody> 
   </table>
 
