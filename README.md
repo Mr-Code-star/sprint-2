@@ -121,9 +121,21 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
        <td> Done </td>
      </tr>
      <tr>
+       <td>US057</td>
+       <td>API RESTful – Planes de suscripción	</td>
+       <td>WII-03</td>
+       <td>Consumir endpoint de planes de suscripción</td>
+       <td>
+         Implementar la lógica para consumir el endpoint '/api/plans' desde el frontend usando una fake API (mock o json-server). Mostrar dinámicamente los planes Gratuito y Premium en la interfaz de selección, manejando estados de carga y errores en caso de fallo de conexión.
+       </td>
+       <td> 4 </td>
+       <td> Pariachi Limahuaya, Sebastian Ubaldo</td>
+       <td> Done </td>
+     </tr>
+     <tr>
        <td>US029</td>
        <td>Perfil de usuario registrado	</td>
-       <td>WII-03</td>
+       <td>WII-04</td>
        <td>Implementar vista del perfil del usuario</td>
        <td>Crear la vista del perfil del usuario registrado que muestre su foto, nombre, rol, descripción personal, habilidades, proyectos, puntos y botones de “Ver CV”, “Portafolio” y “Experiencias”. Asegurar que los datos se carguen correctamente desde el backend y que la interfaz sea responsiva.</td>
        <td>6</td>
@@ -132,6 +144,8 @@ En esta sección se incluye la elaboración de el artefacto Leadership-andCollab
      </tr>
    </tbody>
   </table>
+
+  
   
 #### 5.2.2.4. Development Evidence for Sprint Review.
 #### 5.2.2.5. Execution Evidence for Sprint Review.
